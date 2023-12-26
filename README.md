@@ -7,3 +7,6 @@ see all commit messages ----> git log
 add origin ----> git remote add origin repo_url
 clone project ----> git clone repo_url
 check differnce in file when multiple developer work together ---> git diff
+check differnce in file in staged area ---> git diff --staged
+skip staged area and directly go for commit ---> git commit -a -m "message"
+
