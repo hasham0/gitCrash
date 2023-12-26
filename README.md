@@ -10,3 +10,8 @@ check differnce in file when multiple developer work together ---> git diff
 check differnce in file in staged area ---> git diff --staged
 skip staged area and directly go for commit ---> git commit -a -m "message"
 
+flow from untack to track to staged
+git status ----> git add .
+
+flow from staged to track to untrack
+git restore --staged filename
