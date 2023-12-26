@@ -1,5 +1,5 @@
 #<!-- step -->
-Initializing git ---> git init
+Initializing git ---> git init\n
 check file status ----> git status
 add file ---> git add filename / --a (all) /. (dot for all files)
 add commit ----> git commit -m "message"
