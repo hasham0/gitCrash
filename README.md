@@ -8,6 +8,7 @@ clone project ----> git clone repo_url\
 check differnce in file when multiple developer work together ---> git diff\
 check differnce in file in staged area ---> git diff --staged\
 skip staged area and directly go for commit ---> git commit -a -m "message"\
+check your configuration list ---> git config --list
 
 ## flow from untack to track to staged
 
